@@ -97,20 +97,26 @@ _Initial level design and gameplay_
 
 ### Team
 
-<div style="display: flex; text-align: center;">
-    <div style="display: flex; flex-direction: column">
-        <img src="images/team/caitlin.jpg" height="150px" alt="Caitlin Mallen">
+<div style="display: flex; text-align: center; justify-content: space-between; max-width: 500px;">
+    <div style="display: flex; flex-direction: column;">
+        <a href="/images/team/caitlin.jpg" target="_blank">
+            <img src="images/team/caitlin.jpg" height="150px" alt="Caitlin Mallen" style="border-radius: 5px;">
+        </a>
         <div><b>Caitlin Mallen</b></div>
         <div style="font-size: 0.7rem">Art</div>
     </div>
     <div>
-        <img src="images/team/jayden.png" height="150px" alt="Jayden Tactay">
+        <a href="/images/team/caitlin.jpg" target="_blank">
+            <img src="images/team/jayden.png" height="150px" alt="Jayden Tactay" style="border-radius: 5px;">
+        </a>
          <div><b>Jayden Tactay</b></div>
         <div style="font-size: 0.7rem">Coding</div>
     </div>
     <div> 
-        <img src="images/team/rob.png" height="150px" alt="Rob Godfrey">
+        <a href="/images/team/caitlin.jpg" target="_blank">
+            <img src="images/team/rob.png" height="150px" alt="Rob Godfrey" style="border-radius: 5px;">
+        </a>
         <div><b>Rob Godfrey</b></div>
-        <div style="font-size: 0.7rem">Art</div>
+        <div style="font-size: 0.7rem">Coding</div>
     </div>
 </div>
