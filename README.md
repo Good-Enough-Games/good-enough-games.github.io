@@ -93,3 +93,24 @@ Guards patrol on a set path and will chase the player if detected. If the player
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EJqzYUt0DG0?si=S7xSdaB51axKDmWd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 _Initial level design and gameplay_
+
+
+### Team
+
+<div style="display: flex; text-align: center;">
+    <div style="display: flex; flex-direction: column">
+        <img src="images/team/caitlin.jpg" height="150px" alt="Caitlin Mallen">
+        <div><b>Caitlin Mallen</b></div>
+        <div style="font-size: 0.7rem">Art</div>
+    </div>
+    <div>
+        <img src="images/team/jayden.png" height="150px" alt="Jayden Tactay">
+         <div><b>Jayden Tactay</b></div>
+        <div style="font-size: 0.7rem">Coding</div>
+    </div>
+    <div> 
+        <img src="images/team/rob.png" height="150px" alt="Rob Godfrey">
+        <div><b>Rob Godfrey</b></div>
+        <div style="font-size: 0.7rem">Art</div>
+    </div>
+</div>
