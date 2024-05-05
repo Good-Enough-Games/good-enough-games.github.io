@@ -57,18 +57,19 @@ A fun and lighthearted game with (maybe) comical violence
 
 - New objects to transform into
 
-### Initial Concept Art
+#### Initial Concept Art and Storyboard Sketches
 
 <img src="images/alien-concepts.jpg" width="800px" alt="Alien Concept Art" />
 
-_Alien character concept art_
+_Alien character concept art (Caitlin)_
 
 <img src="images/guard-concepts.jpg" width="500px" alt="Guard Concept Art" />
 
-_Guard characters concept art_
+_Guard characters concept art (Caitlin)_
 
+## [TODO add more storyboard sketches from Rob and Jayden]
 
-### Main Character Design and Animation
+#### Main Character Design and Animation
 
 <img src="images/main-character.png" width="400px" alt="Alien Concept Art">
 
@@ -82,7 +83,9 @@ _Main character movement animation_
 
 The character has a simple idle animation and can move in all four cardinal directions. The character's movement is controlled by the player using the `W`, `A`, `S`, and `D` keys. The player can also press the `Space` key to jump.
 
-### Level Design and Gameplay
+## [TODO add more snapshots of main character (animation stills)]
+
+#### Level Design and Gameplay
 
 ![Guard Patrol](gifs/guard-patrol.gif)
 
@@ -90,10 +93,23 @@ _Initial prototyping of the guard AI_
 
 Guards patrol on a set path and will chase the player if detected. If the player evades a chasing guard, the guard will eventually return to their patrol area.
 
+## [TODO add more snapshots of level design]
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EJqzYUt0DG0?si=S7xSdaB51axKDmWd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-_Initial level design and gameplay_
+_Mid-semester prototype showing character movement/animation, basic level design, and guard AI_
 
+### Final Game Demo
+
+## [TODO video of final demo goes here]
+
+## [TODO game hosted on itch.io link goes here]
+
+### Development
+
+This game was developed using issue-driven project management: we leveraged Trello to track project to-dos as cards in our Trello board. Each card was assigned to one or more project members.
+
+[Link to Trello board](https://trello.com/b/HyR2fKD2/good-enough)
 
 ### Team
 
@@ -103,20 +119,20 @@ _Initial level design and gameplay_
             <img src="images/team/caitlin.jpg" height="150px" alt="Caitlin Mallen" style="border-radius: 5px;">
         </a>
         <div><b>Caitlin Mallen</b></div>
-        <div style="font-size: 0.7rem">Art</div>
+        <div style="font-size: 0.7rem">ACM Senior<br>Art</div>
     </div>
     <div>
         <a href="/images/team/caitlin.jpg" target="_blank">
             <img src="images/team/jayden.png" height="150px" alt="Jayden Tactay" style="border-radius: 5px;">
         </a>
          <div><b>Jayden Tactay</b></div>
-        <div style="font-size: 0.7rem">Coding</div>
+        <div style="font-size: 0.7rem">ICS Senior<br>Coding</div>
     </div>
     <div> 
         <a href="/images/team/caitlin.jpg" target="_blank">
             <img src="images/team/rob.png" height="150px" alt="Rob Godfrey" style="border-radius: 5px;">
         </a>
         <div><b>Rob Godfrey</b></div>
-        <div style="font-size: 0.7rem">Coding</div>
+        <div style="font-size: 0.7rem">ICS Senior<br>Coding</div>
     </div>
 </div>
