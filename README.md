@@ -5,7 +5,7 @@
 _Created by Caitlin Mallen, Jayden Tactay, and Rob Godfrey_
 
 ### Concept
-_Escape Area 51_ is a 2.5D game based in Area 51 where the player is an alien escaping captivity. The player will attempt to avoid getting caught by guards as they make their way to an exit to meet up with an alien rescue squad. The player has the ability to transform into guards or objects to help them escape detection.
+_Escape Area 51_ is a 2.5D game based in Area 51 where the player is an alien escaping captivity. The player will attempt to avoid getting caught by Area 51 guards as they make their way to an exit to meet up with an alien rescue squad. The player has the ability to transform into guards or objects to help escape detection.
 
 **Emotion/Mood**
 
@@ -67,7 +67,11 @@ _Alien character concept art (Caitlin)_
 
 _Guard characters concept art (Caitlin)_
 
-## [TODO add more storyboard sketches from Rob and Jayden]
+<img src="images/tray-carry-concept.png" width="800px" alt="Tray Carry Concept Art" />
+
+_Concept for the first level, where a guard carries the alien (transformed as a food tray) to the kitchen (Rob)._
+
+## [TODO add more storyboard sketches from Jayden]
 
 #### Main Character Design and Animation
 
@@ -83,7 +87,9 @@ _Main character movement animation_
 
 The character has a simple idle animation and can move in all four cardinal directions. The character's movement is controlled by the player using the `W`, `A`, `S`, and `D` keys. The player can also press the `Space` key to jump.
 
-## [TODO add more snapshots of main character (animation stills)]
+<img src="images/transform-spritesheet.png" width="600px" alt="Alien Transform Animation">
+
+_Alien transformation animation_
 
 #### Level Design and Gameplay
 
