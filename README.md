@@ -71,7 +71,9 @@ _Guard characters concept art (Caitlin)_
 
 _Concept for the first level, where a guard carries the alien (transformed as a food tray) to the kitchen (Rob)._
 
-## [TODO add more storyboard sketches from Jayden]
+<img src="images/kitchen-level-concept.jpg" width="800px" alt="Kitchen Level Concept Art" />
+
+_Concept for the kitchen level. The player must navigate through the kitchen without being detected, find a screwdriver, and escape through a vent._
 
 #### Main Character Design and Animation
 
