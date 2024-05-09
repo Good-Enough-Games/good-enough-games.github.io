@@ -101,17 +101,15 @@ _Initial prototyping of the guard AI_
 
 Guards patrol on a set path and will chase the player if detected. If the player evades a chasing guard, the guard will eventually return to their patrol area.
 
-## [TODO add more snapshots of level design]
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EJqzYUt0DG0?si=S7xSdaB51axKDmWd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 _Mid-semester prototype showing character movement/animation, basic level design, and guard AI_
 
 ### Final Game Demo
 
-## [TODO video of final demo goes here]
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=JkgNOtfCHac&feature=youtu.be" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## [TODO game hosted on itch.io link goes here]
+[Download on itch.io](https://jaydent22.itch.io/escape-area-51)
 
 ### Development
 
